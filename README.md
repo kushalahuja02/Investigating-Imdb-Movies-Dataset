@@ -24,6 +24,19 @@ Using this dataset, I aim to answer intriguing questions such as:
 ## Approach
 My approach involves a thorough process of Data Cleaning, Data Manipulation, and Exploratory Data Analysis. These steps are crucial for extracting meaningful insights and answering key questions.
 
+## Conclusions
+Through data-driven analysis, this project provides valuable insights into the movie industry, beneficial for stakeholders and enthusiasts alike. Key findings include:
+
+- **Top 10 Grossing Movies:** The highest-grossing movie is 'Avatar', followed by 'Star Wars' and 'Titanic', indicating a trend towards Sci-Fi genres in box office success.
+- **Highest Rated Directors:** Christopher Nolan, Stanley Kubrick, and Quentin Tarantino are among the top-rated directors.
+- **Top Production Companies:** Universal Pictures, Warner Bros., and Paramount Pictures lead in movie production.
+- **Popular Release Months:** June, July, November, and December are peak months for popular movies, with January, September, April, and August being the least popular.
+- **Budget-Revenue Correlation:** There is a strong positive correlation between a movie's budget and its revenue.
+
+### Limitations
+- **Data Type Issues:** Some columns like release_date required datatype conversions.
+- **Multivalued Columns:** Columns like Production Companies, Genres, and Cast present challenges due to multiple values in single rows, necessitating advanced data handling.
+- 
 ## Data Source
 The dataset used in this project is the 'TMDb Movies Dataset', comprising over 10,000 movie records. It includes a variety of information ranging from basic movie details to financial data.
 
@@ -37,6 +50,7 @@ The dataset used in this project is the 'TMDb Movies Dataset', comprising over 1
 
 ## Data Files
 - `tmdb_movies_data.csv`: This is the primary dataset file used for the analysis.
+
 
 ## Contributing
 Feel free to fork this repository, submit pull requests, or send suggestions to improve the project.
