@@ -36,7 +36,7 @@ Through data-driven analysis, this project provides valuable insights into the m
 ### Limitations
 - **Data Type Issues:** Some columns like release_date required datatype conversions.
 - **Multivalued Columns:** Columns like Production Companies, Genres, and Cast present challenges due to multiple values in single rows, necessitating advanced data handling.
-- 
+   
 ## Data Source
 The dataset used in this project is the 'TMDb Movies Dataset', comprising over 10,000 movie records. It includes a variety of information ranging from basic movie details to financial data.
 
