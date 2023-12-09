@@ -9,8 +9,9 @@ Looking to understand what makes a movie profitable and popular? You're in the r
 ## Objectives
 Using this dataset, I aim to answer intriguing questions such as:
 - Which movies are the most profitable?
-- Who are the top-rated directors and production companies?
-- What are the trends in movie popularity across different months?
+- Who are the top-rated directors
+- Which are the top production companies, and what is their share?
+- What are the trends in movie popularity across different months and is there any relation between them?
 - Is there a correlation between a movie's budget and its revenue?
 
 ## Technologies Used
